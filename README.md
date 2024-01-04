@@ -12,6 +12,6 @@ formate for inserting data
 {
     "name":"vishvajeet",
     "number":39287982,
-    "address":"Mumbai"
+    "address":"Mumbai",
     "payment":true
 }
